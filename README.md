@@ -3,6 +3,14 @@
 Computer System Architecture practical (Ramanujan College, University of Delhi)
 simulating M. Morris Mano's Basic Computer in CPU Sim 4.0.11.
 
+
+
+**NAME:** NIDHI SINGH
+**ROLL NO:** 26570041
+**COURSE:** B.Sc. (H) COMPUTER SCIENCE
+
+
+
 ## Contents
 - machine/BasicComputer.cpu: machine design and fetch routine (Practicals 1-2)
 - programs/: assembly programs for Practicals 3-11
