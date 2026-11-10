@@ -6,7 +6,9 @@ simulating M. Morris Mano's Basic Computer in CPU Sim 4.0.11.
 
 
 **NAME:** NIDHI SINGH
+
 **ROLL NO:** 26570041
+
 **COURSE:** B.Sc. (H) COMPUTER SCIENCE
 
 
