@@ -5,11 +5,13 @@ simulating M. Morris Mano's Basic Computer in CPU Sim 4.0.11.
 
 
 
-**NAME:** NIDHI SINGH
+| Field | Details |
+| --- | --- |
+| Name | Nidhi Singh |
+| Roll No. | 26570041 |
+| Course | BSc (Hons) Computer Science |
+| College | Ramanujan College, University of Delhi |
 
-**ROLL NO:** 26570041
-
-**COURSE:** B.Sc. (H) COMPUTER SCIENCE
 
 
 
